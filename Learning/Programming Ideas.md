@@ -1,0 +1,1 @@
+Audio/Screen recorder that feeds audio into whisper to generate subtitles 

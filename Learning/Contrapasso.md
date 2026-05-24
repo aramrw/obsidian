@@ -1,0 +1,1 @@
+> The punishment of souls "by a process either resembling or contrasting with the sin itself." A similar process occurs in the Purgatorio.

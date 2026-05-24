@@ -1,0 +1,4 @@
+[Wikipedia](https://en.wikipedia.org/wiki/Perlin_noise) 
+
+> **Perlin noise** is a type of [gradient noise](https://en.wikipedia.org/wiki/Gradient_noise "Gradient noise") developed by [Ken Perlin](https://en.wikipedia.org/wiki/Ken_Perlin "Ken Perlin") in 1982. It has many uses, including but not limited to: [procedurally generating terrain](https://en.wikipedia.org/wiki/Scenery_generator "Scenery generator"), applying [pseudo-random](https://en.wikipedia.org/wiki/Pseudo-random "Pseudo-random") changes to a variable, and assisting in the creation of [image textures](https://en.wikipedia.org/wiki/Image_texture "Image texture"). It is most commonly implemented in two, three, or four [dimensions](https://en.wikipedia.org/wiki/Dimension "Dimension"), but can be defined for any number of dimensions.
+

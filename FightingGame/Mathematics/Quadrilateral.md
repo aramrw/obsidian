@@ -1,0 +1,12 @@
+[`Wikipedia`](https://en.wikipedia.org/wiki/Quadrilateral)
+> In [geometry](https://en.wikipedia.org/wiki/Euclidean_geometry "Euclidean geometry"), a **quadrilateral** is a four-sided [polygon](https://en.wikipedia.org/wiki/Polygon "Polygon"), having four [edges](https://en.wikipedia.org/wiki/Edge_\(geometry\) "Edge (geometry)") (sides) and four [corners](https://en.wikipedia.org/wiki/Vertex_\(geometry\) "Vertex (geometry)") (vertices). The word is derived from the Latin words _quadri_, a variant of four, and _latus_, meaning "side". It is also called a **tetragon**, derived from Greek "tetra" meaning "four" and "gon" meaning "corner" or "angle", in analogy to other polygons (e.g. [pentagon](https://en.wikipedia.org/wiki/Pentagon "Pentagon")). Since "gon" means "angle", it is analogously called a **quadrangle**, or 4-angle. A quadrilateral with vertices A, B, C and D is sometimes denoted as ◻ABCD.[[1]](https://en.wikipedia.org/wiki/Quadrilateral#cite_note-:0-1)
+
+> Quadrilaterals are either [simple](https://en.wikipedia.org/wiki/Simple_polygon "Simple polygon") (not self-intersecting), or [complex](https://en.wikipedia.org/wiki/Complex_polygon "Complex polygon") (self-intersecting, or crossed). Simple quadrilaterals are either [convex](https://en.wikipedia.org/wiki/Convex_polygon "Convex polygon") or [concave](https://en.wikipedia.org/wiki/Concave_polygon "Concave polygon").
+
+> The [interior angles](https://en.wikipedia.org/wiki/Internal_and_external_angle "Internal and external angle") of a simple (and [planar](https://en.wikipedia.org/wiki/Plane_\(geometry\) "Plane (geometry)")) quadrilateral _ABCD_ add up to 360 [degrees](https://en.wikipedia.org/wiki/Degree_\(angle\) "Degree (angle)"), that is[[1]](https://en.wikipedia.org/wiki/Quadrilateral#cite_note-:0-1)
+
+> ∠A+∠B+∠C+∠D=360∘
+
+> This is a special case of the _n_-gon interior angle sum formula: _S_ = (_n_ − 2) × 180° (here, n=4).[[2]](https://en.wikipedia.org/wiki/Quadrilateral#cite_note-2)
+
+> All non-self-crossing quadrilaterals [tile the plane](https://en.wikipedia.org/wiki/Tessellation "Tessellation"), by repeated rotation around the midpoints of their edges.[[3]](https://en.wikipedia.org/wiki/Quadrilateral#cite_note-3)

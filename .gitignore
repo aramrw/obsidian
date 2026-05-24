@@ -1,0 +1,11 @@
+# Obsidian workspace state (changes frequently, specific to local device)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/backlink-cache.json
+
+# Smart Connections plugin (local embeddings/cache)
+**/.smart-env/
+
+# Mac OS specific
+.DS_Store
+**/.DS_Store
