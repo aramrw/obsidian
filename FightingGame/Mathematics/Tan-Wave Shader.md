@@ -1,4 +1,4 @@
-**Tags:** #shaders #graphics #computer_graphics #computer_science #math 
+#shaders #graphics #computer_graphics #computer_science #math #shader_tutorial
 
 ![[output3.gif|273]]
 
@@ -53,7 +53,7 @@ void main() {
 
 ## 3. Color Context and Blending
 
-Colors are 3D vectors representing Red, Green, and Blue channels, strictly bound between $0.0$ and $1.0$. Standardized palettes should be referenced in [[Shader Colors]].
+Colors are 3D vectors representing Red, Green, and Blue channels, strictly bound between $0.0$ and $1.0$. See [[Color Generation]].
 
 To apply color, use linear interpolation (`mix`) to dictate where the foreground and background exist based on the mask generated in the previous step.
 
@@ -145,7 +145,7 @@ void main() {
     float d = fract(10.0 * uv.x + clock);
     d = smoothstep(0.2, 0.10, d);
 
-    // Color generation
+    // [[Color Generation]]
     float p = tan(uv.x + u_time);
     vec3 bg_color = vec3(0.1, 0.1, 0.1);
     vec3 fg_color = vec3(

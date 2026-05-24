@@ -29,7 +29,7 @@ An Impulse Response is a mathematical snapshot of how a system reacts to a singl
 In shaders and image processing, convolution is used for bluring, sharpening, and edge detection. The "kernel" is a small matrix (e.g., $3 \times 3$) that slides over the pixels.
 
 ### Example: Gaussian Blur
-The kernel is a $[[Gaussian]]$ distribution.
+The kernel is a [[Gaussian]] distribution.
 
 $$\text{Kernel} = \frac{1}{16} \begin{bmatrix} 1 & 2 & 1 \\ 2 & 4 & 2 \\ 1 & 2 & 1 \end{bmatrix}$$
 

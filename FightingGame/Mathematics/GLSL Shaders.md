@@ -25,6 +25,14 @@ in vec2 uv;
 out vec4 out_color;
 ```
 
+### Time 
+
+> `u_time` tracks the elapsed time since the shader started
+
+```glsl
+uniform float u_time;
+```
+
 ### Examples
 
 > Simply converts a pixels position to red and green. For example the first pixel at `(0.0, 0.0)` would become green, since green is `(0.0, 0.0)`.
