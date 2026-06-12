@@ -1,7 +1,5 @@
 #math #geometry #rotation #complex_numbers
 
-# Quaternions
-
 Quaternions are a number system that extends [[Complex Numbers]]. While [[Complex Numbers]] have one imaginary unit ($i$), quaternions have three ($i, j, k$). They are the industry standard for representing 3D rotations in computer graphics and aerospace.
 
 ---
@@ -23,7 +21,7 @@ This leads to the non-commutative multiplication rules:
 ---
 
 ## 2. Rotations: Quaternions vs. Matrices
-In 3D graphics, we use **Unit Quaternions** (where $\|q\| = 1$) to represent rotations.
+In 3D graphics, we use **Unit Quaternions** (where $\|q\| = 1$) to represent rotations. See [[Normalization]].
 
 | Feature | Euler Angles | Matrices ($3 \times 3$) | Quaternions |
 | :--- | :--- | :--- | :--- |

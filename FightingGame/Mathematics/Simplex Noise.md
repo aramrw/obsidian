@@ -27,7 +27,7 @@ The advantages of simplex noise over Perlin noise:
 - Simplex noise has a well-defined and continuous gradient (almost) everywhere that can be computed quite cheaply.
 - Simplex noise is easy to implement in hardware.
 
-Whereas Perlin noise interpolates between the [gradients](https://en.wikipedia.org/wiki/Gradient) at the surrounding hypergrid end points (i.e., northeast, northwest, southeast and southwest in 2D), simplex noise divides the space into [simplices](https://en.wikipedia.org/wiki/Simplex) (i.e., $n$-dimensional triangles). This reduces the number of data points. While a hypercube in $n$ dimensions has $2^n$ corners, a simplex in $n$ dimensions has only $n+1$ corners. The triangles are [equilateral](https://en.wikipedia.org/wiki/Equilateral_triangle) in 2D, but in higher dimensions the simplices are only approximately regular. For example, the tiling in the 3D case of the function is an orientation of the [tetragonal disphenoid honeycomb](https://en.wikipedia.org/wiki/Tetragonal_disphenoid_honeycomb).
+Whereas Perlin noise interpolates between the [[Gradient|Gradients]] at the surrounding hypergrid end points (i.e., northeast, northwest, southeast and southwest in 2D), simplex noise divides the space into [simplices](https://en.wikipedia.org/wiki/Simplex) (i.e., $n$-dimensional triangles). This reduces the number of data points. While a hypercube in $n$ dimensions has $2^n$ corners, a simplex in $n$ dimensions has only $n+1$ corners. The triangles are [equilateral](https://en.wikipedia.org/wiki/Equilateral_triangle) in 2D, but in higher dimensions the simplices are only approximately regular. For example, the tiling in the 3D case of the function is an orientation of the [tetragonal disphenoid honeycomb](https://en.wikipedia.org/wiki/Tetragonal_disphenoid_honeycomb).
 
 Simplex noise is useful for computer graphics applications, where noise is usually computed over 2, 3, 4, or possibly 5 dimensions. For higher dimensions, $n$-spheres around $n$-simplex corners are not densely enough packed, reducing the support of the function and making it zero in large portions of space.
 
@@ -56,7 +56,7 @@ fn main() {
 }
 ```
 
-```
+```rust
 [src/main.rs:14:5] fv = Vec2 {
     x: 1.0,
     y: 3.0,

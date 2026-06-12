@@ -6,19 +6,17 @@ The traveling wave equation describes a sinusoidal wave moving through space ove
 
 $$y = A \sin(kx - \omega t) + D$$
 
----
-
 ## 1. Variables Breakdown
 
-* **$y$**: The vertical displacement at a specific position $x$ and time $t$.
-* **$A$ (Amplitude)**: The peak-to-peak height divided by two. It represents the maximum displacement from the equilibrium position.
-* **$k$ (Wave Number)**: Determines how many wave cycles occur over a unit of distance.
-    * $k = \frac{2\pi}{\lambda}$ (where $\lambda$ is the wavelength).
-* **$x$ (Position)**: The horizontal coordinate.
-* **$\omega$ (Angular Frequency)**: Determines how fast the wave oscillates in time.
-    * $\omega = 2\pi f = \frac{2\pi}{T}$ (where $f$ is frequency and $T$ is the period).
-* **$t$ (Time)**: The elapsed time.
-* **$D$ (Vertical Shift)**: The equilibrium position or vertical offset of the wave.
+| Variable | Name | Description |
+| :--- | :--- | :--- |
+| **$y(x, t)$** | **Displacement** | The vertical position at position $x$ and time $t$. |
+| **$A$** | **Amplitude** | The maximum displacement from equilibrium (peak height). |
+| **$k$** | **Wave Number** | Spatial frequency; determines wave cycles over a unit distance. Defined as $k = \frac{2\pi}{\lambda}$ (where $\lambda$ is wavelength). |
+| **$x$** | **Position** | The horizontal coordinate. |
+| **$\omega$** | **Angular Frequency** | Temporal frequency; determines oscillation speed over time. Defined as $\omega = 2\pi f = \frac{2\pi}{T}$ (where $f$ is frequency, $T$ is period). |
+| **$t$** | **Time** | The elapsed time. |
+| **$D$** | **Vertical Shift** | The equilibrium position or vertical offset (DC offset). |
 
 ---
 

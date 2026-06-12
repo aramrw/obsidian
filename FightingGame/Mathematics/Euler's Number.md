@@ -1,0 +1,3 @@
+[Euler's Number](https://en.wikipedia.org/wiki/Euler%27s_number "Euler's number")
+
+> approximately equal to 2.71828, that is the [base](https://en.wikipedia.org/wiki/Base_of_a_logarithm "Base of a logarithm") of the [natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm "Natural logarithm") and [exponential function](https://en.wikipedia.org/wiki/Exponential_function "Exponential function").

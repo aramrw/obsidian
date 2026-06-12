@@ -1,4 +1,4 @@
-#shaders #math
+#shaders #math #computer_graphics 
 # UV Normalization
 
 UV Normalization establishes `(0,0)` at the center of the viewport and corrects for the aspect ratio of the screen.
@@ -10,3 +10,6 @@ Typically, this looks like:
 // Corrects aspect ratio and sets (0,0) to center
 vec2 uv = (fragCoord - 0.5 * iResolution.xy) / iResolution.y;
 ```
+
+# Related
+- [[UV Mapping]]

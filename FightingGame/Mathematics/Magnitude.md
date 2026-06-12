@@ -28,14 +28,14 @@ $$\|\mathbf{v}\| = \sqrt{\sum_{i=1}^{n} v_i^2}$$
 
 ---
 
-## 3. Unit Vectors and Normalization
-A **unit vector** is a vector with a magnitude of exactly $1$. 
+## 3. Unit Vectors $\mathbf{\hat{v}}$
 
-**Normalization** is the process of taking any non-zero vector and scaling it so that its magnitude becomes $1$, while keeping its direction the same. This is done by dividing the vector by its own magnitude:
-$$\mathbf{\hat{v}} = \frac{\mathbf{v}}{\|\mathbf{v}\|}$$
+ > A **unit vector** is a vector with a magnitude of exactly $1$. 
+ > 
+ > **[[Normalization]]** is the process of dividing a vector by its own [[Magnitude]] to make it a unit vector.
 
-* **In Graphics:** Normalization is used constantly in [[GLSL Shaders]] to ensure light directions and surface normals are unit length for lighting calculations (like the Dot Product).
-
+For a deep dive into how and why we scale vectors to a length of 1 across all dimensions, see the dedicated note on [[Normalization]].
+ 
 ---
 
 ## 4. Relationship with Distance

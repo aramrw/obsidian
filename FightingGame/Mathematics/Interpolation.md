@@ -16,6 +16,8 @@ $$\text{lerp}(a, b, t) = a(1 - t) + bt$$
 
 **Crucial Note:** In practice, $t$ should be **clamped** between $0$ and $1$ to prevent "overshooting" unless you specifically want **Extrapolation**.
 
+> Note: Can be paired with the [[Step Function]] in [[OpenGL]] as binary switches (if without branching).
+
 ### Vectorized LERP
 LERP isn't just for numbers; it works for Vectors ($vec2, vec3$) by interpolating each component individually.
 ```rust

@@ -1,0 +1,5 @@
+#math #geometry 
+
+https://en.wikipedia.org/wiki/Normal_(geometry)
+
+> In [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"), a **normal** is an [object](https://en.wikipedia.org/wiki/Mathematical_object "Mathematical object") (e.g. a [line](https://en.wikipedia.org/wiki/Line_\(geometry\) "Line (geometry)"), [ray](https://en.wikipedia.org/wiki/Ray_\(geometry\) "Ray (geometry)"), or [vector](https://en.wikipedia.org/wiki/Euclidean_vector "Euclidean vector")) that is [perpendicular](https://en.wikipedia.org/wiki/Perpendicular "Perpendicular") to a given object. For example, the **normal line** to a [plane curve](https://en.wikipedia.org/wiki/Plane_curve "Plane curve") at a given [point](https://en.wikipedia.org/wiki/Point_\(geometry\) "Point (geometry)") is the infinite straight line perpendicular to the [tangent line](https://en.wikipedia.org/wiki/Tangent_line "Tangent line") to the curve at the point.

@@ -1,4 +1,5 @@
-#shaders
+#shaders #computer_graphics #math 
+
 # The Syntax 
 
 ### Version
@@ -73,11 +74,19 @@ Before manipulating pixels, the underlying forces dictating the coordinate space
 
 ### Important Concepts
 
-- [[Matrices]]
+- [[Vectors and Matrices]]
 - [[Trigonometry]] (The Wave Equation)
-- [[Vector Products]] (Dot/Cross)
-- [[Interpolation]] (Lerp/Smoothstep)
-- [[Affine Transformations]] (MVP Matrices)
+- [[Vector Products]] 
+	- ([[Dot Product]]/[[Cross Product]])
+- [[Interpolation]] 
+	- ([[Lerp]]/[[Smoothstep Interpolation]])
+- [[Affine Transformations]] 
+	- ([[MVP Matrices]])
+- [[Planes]]
+- [[Rays]] & [[Simple Raytracing]]
 
 ### Tutorials 
 - [[Tan-Wave Shader]]
+- [[Pixel Water Shader]]
+- [[Radial Universe Shader]]
+- [[Skybox Shader]]

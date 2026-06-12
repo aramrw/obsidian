@@ -68,7 +68,7 @@ float uniform_line = 1.0 - step(0.01, corrected_d);
 
 ---
 
-## 3. Practical Usage: SDFs
+## 3. Practical Usage: [[Signed Distance Fields]]
 In modern graphics, we prefer using **Signed Distance Functions (SDFs)**. An SDF for a line or curve returns the true Euclidean distance, ensuring that shadows, glows, and outlines remain perfectly uniform regardless of the shape's orientation.
 
 ---

@@ -10,7 +10,7 @@ The hypothesis is centered around a specific mathematical function called the **
 For a complex number $s = \sigma + it$, the function is defined as:
 $$\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \frac{1}{1^s} + \frac{1}{2^s} + \frac{1}{3^s} + \dots$$
 
-Riemann used a technique called **Analytic Continuation** to extend this function to all complex numbers (except for $s=1$).
+Riemann used a technique called [[Analytic Continuation]] to extend this function to all complex numbers (except for $s=1$).
 
 ---
 
